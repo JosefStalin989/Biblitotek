@@ -1,0 +1,8 @@
+1,Romance of The Three Kingdoms,Action,Luo Guanzhong,024133277,4,1,0
+2,Search of Lost Time,Fiction,Marcel Proust,51246156,7,0,0
+3,Ulysses,Fiction,James Joyce,672156823,0,1,0
+4,Don Quixote,Satire,Miguel de Cervantes,98274751,15,2,0
+5,One Hundred Years of Solitude,Fantasy,Gabriel Garcia Marquez,968123462,3,0,0
+6,The Great Gatsby,Tragedy,F. Scott Fitzgerald,691245123,9,0,0
+7,Moby Dick,Adventure fiction,Herman Melville,651241223,5,0,0
+8,Samkok,Action,Luo Guanzhoung,239612532,3,0,0
